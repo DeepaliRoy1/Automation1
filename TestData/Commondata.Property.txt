@@ -1,0 +1,4 @@
+Browser chrome
+url https://online.actitime.com/allied/timetrack/enter.do?submitted=
+username rdeepali179@gmail.com
+password Deepali081100
